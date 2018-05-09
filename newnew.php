@@ -3,4 +3,5 @@
 	echo "強めの";
 	echo "わろた";
 	echo "イケてる";
+	echo "hogehoge";
  ?>
