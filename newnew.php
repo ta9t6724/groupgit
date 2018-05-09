@@ -3,5 +3,5 @@
 	echo "強めの";
 	echo "わろた";
 	echo "イケてる";
-	echo "hogehoge";
+  echo "撮影だ！";
  ?>
